@@ -1,0 +1,26 @@
+{
+  "name": "learning-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palm11695/learning-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palm11695/learning-cypress/issues"
+  },
+  "homepage": "https://github.com/palm11695/learning-cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
